@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 25 13:29:01 2017
 API Key: 
-@author: Adam Lee
+@author: Adam
 """
 
 import requests as r
