@@ -1,2 +1,2 @@
 # GoogleStreetView
-Python program that interfaces with Google Streetview API to scrap images based on a list of addresses/locations
+Python program that interfaces with Google Streetview API to scrape images based on a list of addresses/locations
